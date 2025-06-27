@@ -48,3 +48,26 @@ export default tseslint.config({
   },
 })
 ```
+📄 License
+This project is licensed under the MIT License.
+
+👤 Author
+Aviral Shukla
+GitHub: @getchaviral
+Email: shuklaaviral403@gmail.com
+
+Made with ❤️ using React & Vite
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you'd like to customize:
+- Tech stack
+- Feature list
+- Add backend/API info
+- Add deployment link (e.g., Vercel or Netlify)
+
+I can adjust it accordingly!
