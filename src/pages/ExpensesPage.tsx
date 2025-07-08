@@ -151,7 +151,7 @@ export default function ExpensesPage() {
           <form onSubmit={handleAddExpense}>
             <div className="mb-4">
               <label htmlFor="amount" className="mb-1 block text-sm font-medium text-gray-700">
-                Amount ($)
+                Amount (₹)
               </label>
               <input
                 type="number"
